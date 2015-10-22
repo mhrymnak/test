@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015-10-22 11:07:12.502.pas,C:\Users\PLK055263\Documents\RAD Studio\Projects\Unit1.pas=D:\PROJEKTY\Test-DelphiGithub\Unit1.pas</Transaction>
+    <Transaction>2015-10-22 11:07:12.502.dfm,C:\Users\PLK055263\Documents\RAD Studio\Projects\Unit1.dfm=D:\PROJEKTY\Test-DelphiGithub\Unit1.dfm</Transaction>
+    <Transaction>2015-10-22 11:07:14.974.dproj,C:\Users\PLK055263\Documents\RAD Studio\Projects\Project1.dproj=D:\PROJEKTY\Test-DelphiGithub\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
